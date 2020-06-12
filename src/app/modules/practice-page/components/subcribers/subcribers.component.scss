@@ -1,0 +1,12 @@
+.subscribers-list {
+  ion-col {
+    display: flex;
+    justify-content: center;
+  }
+
+  ion-chip {
+    &.active {
+      background-color: lighten(#0bcae4, 40%);
+    }
+  }
+}

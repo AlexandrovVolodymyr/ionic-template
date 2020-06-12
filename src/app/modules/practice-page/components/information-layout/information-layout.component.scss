@@ -1,0 +1,15 @@
+.layout {
+  position: relative;
+}
+
+.subscribers {
+  background-color: #ffffff;
+  box-shadow: 0 0 5px 0 rgba(0,0,0,0.25);
+  border-radius: 4px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  padding: 15px 0;
+  transform: translate(-50%, -50%);
+  width: 80%;
+}

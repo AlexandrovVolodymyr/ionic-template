@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  position: relative;
+
+  app-profile-layout,
+  app-information-layout {
+    height: 50vh;
+  }
+}
